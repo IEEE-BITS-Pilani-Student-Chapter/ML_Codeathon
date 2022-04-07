@@ -12,5 +12,11 @@ This APOGEE, IEEE BITS Pilani, brings to you, ML Codeathon. This time we have so
 8) Make sure to submit the exact files asked. 
 9) Make sure that all the preprocessing done on the data is done in the Jupyter Notebook you submit because we would be running your code on our original dataset.
 
+## Submission Policy
+Files to be Submitted are given below. Elaborate instructions are provided in the Jupyter Notebook.
+1)Python notebook (.ipynb) file with outputs
+2)Saved models (.pt) file
+3)submission.json file
+
 ## [Submission Link](https://forms.gle/PmBndxKYQqSeAeyEA)
 https://forms.gle/PmBndxKYQqSeAeyEA
