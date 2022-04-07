@@ -14,9 +14,9 @@ This APOGEE, IEEE BITS Pilani, brings to you, ML Codeathon. This time we have so
 
 ## Submission Policy
 Files to be Submitted are given below. Elaborate instructions are provided in the Jupyter Notebook.
-1)Python notebook (.ipynb) file with outputs
-2)Saved models (.pt) file
-3)submission.json file
+1) Python notebook (.ipynb) file with outputs
+2) Saved models (.pt) file
+3) submission.json file
 
 ## [Submission Link](https://forms.gle/PmBndxKYQqSeAeyEA)
 https://forms.gle/PmBndxKYQqSeAeyEA
