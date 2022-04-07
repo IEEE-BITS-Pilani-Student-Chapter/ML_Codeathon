@@ -12,6 +12,11 @@ This APOGEE, IEEE BITS Pilani, brings to you, ML Codeathon. This time we have so
 8) Make sure to submit the exact files asked. 
 9) Make sure that all the preprocessing done on the data is done in the Jupyter Notebook you submit because we would be running your code on our original dataset.
 
+## Dataset download links:
+(These links are available in the colab boilerplate.)<br>
+Train - https://www.dropbox.com/s/pmpl88pa18xhatz/Apogee_train_dataset.npz?dl=1<br>
+Test  - https://www.dropbox.com/s/tttu6a2iftfhjqm/Apogee_test_dataset.npz?dl=1
+
 ## Submission Policy
 Files to be Submitted are given below. Elaborate instructions are provided in the Jupyter Notebook.
 1) Python notebook (.ipynb) file with outputs
