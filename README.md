@@ -15,7 +15,8 @@ This APOGEE, IEEE BITS Pilani, brings to you, ML Codeathon. This time we have so
 ## Dataset download links:
 (These links are available in the colab boilerplate.)<br>
 Train - https://www.dropbox.com/s/pmpl88pa18xhatz/Apogee_train_dataset.npz?dl=1<br>
-Test  - https://www.dropbox.com/s/tttu6a2iftfhjqm/Apogee_test_dataset.npz?dl=1
+Test  - https://www.dropbox.com/s/tttu6a2iftfhjqm/Apogee_test_dataset.npz?dl=1<br>
+<b>IMPORTANT NOTE: </b>If the above links do not work, you can download from the drive link - https://drive.google.com/drive/folders/1ZSjgxPUgLg86IC9LYANvcgtdWQTr3mwt?usp=sharing
 
 ## Submission Policy
 Files to be Submitted are given below. Elaborate instructions are provided in the Jupyter Notebook.
